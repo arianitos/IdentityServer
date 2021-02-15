@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.MySql\\IdentityServer.Admin.EntityFramework.MySql.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.MySql\\IdentityServer.Admin.EntityFramework.MySql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.MySql\\IdentityServer.Admin.EntityFramework.MySql.csproj",
+        "projectName": "IdentityServer.Admin.EntityFramework.MySql",
+        "projectPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.MySql\\IdentityServer.Admin.EntityFramework.MySql.csproj",
+        "packagesPath": "C:\\Users\\Arianit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.MySql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arianit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj": {
+                "projectPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IdentityServer4.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Skoruba.IdentityServer4.Admin.EntityFramework": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Skoruba.IdentityServer4.Admin.EntityFramework.Identity": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj",
+        "projectName": "IdentityServer.Admin.EntityFramework.Shared",
+        "projectPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj",
+        "packagesPath": "C:\\Users\\Arianit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arianit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Skoruba.AuditLogging.EntityFramework": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Skoruba.IdentityServer4.Admin.EntityFramework": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Skoruba.IdentityServer4.Admin.EntityFramework.Identity": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

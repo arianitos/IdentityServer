@@ -1,0 +1,12 @@
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\bin\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.deps.json
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\bin\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.dll
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\bin\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.pdb
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\bin\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.dll
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\bin\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.pdb
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\obj\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.csprojAssemblyReference.cache
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\obj\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\obj\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.AssemblyInfo.cs
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\obj\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\obj\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.csproj.CopyComplete
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\obj\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.dll
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.SqlServer\obj\Debug\netcoreapp3.1\IdentityServer.Admin.EntityFramework.SqlServer.pdb
