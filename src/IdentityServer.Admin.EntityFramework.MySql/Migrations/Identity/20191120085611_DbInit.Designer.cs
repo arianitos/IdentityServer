@@ -111,6 +111,7 @@ namespace IdentityServer.Admin.EntityFramework.MySql.Migrations.Identity
 
             modelBuilder.Entity("IdentityServer.Admin.EntityFramework.Shared.Entities.Identity.UserIdentityRoleClaim", b =>
                 {
+                    
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");

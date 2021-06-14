@@ -17,6 +17,10 @@
       <PackageReference Include="Skoruba.IdentityServer4.Admin.EntityFramework" Version="1.0.0" />
       <PackageReference Include="Skoruba.IdentityServer4.Admin.EntityFramework.Identity" Version="1.0.0" />
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Entities\IdentityServerConfiguration\" />
+    </ItemGroup>
 </Project>
 
 

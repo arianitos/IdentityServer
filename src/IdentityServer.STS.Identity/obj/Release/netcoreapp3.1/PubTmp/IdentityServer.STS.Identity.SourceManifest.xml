@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.STS.Identity\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.STS.Identity\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\IdentityServer.Admin.EntityFramework.Shared.DbContexts.AdminIdentityDbContext.sql" />
+  <dbfullsql path="C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.STS.Identity\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerConfigurationDbContext.sql" />
+  <dbfullsql path="C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.STS.Identity\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerDataProtectionDbContext.sql" />
+  <dbfullsql path="C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.STS.Identity\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerPersistedGrantDbContext.sql" />
+</sitemanifest>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Arianit\Documents\Productivity\EverCloud\Publishes</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConfigurationDbConnection">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="DataProtectionDbConnection">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="IdentityDbConnection">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="PersistedGrantDbConnection">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.AdminIdentityDbContext">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </EFMigrations>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerConfigurationDbContext">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </EFMigrations>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerDataProtectionDbContext">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </EFMigrations>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerPersistedGrantDbContext">
+      <Value>Data Source=51.83.36.168%3bDatabase=IdentityServer%3bIntegrated Security=False%3bUser ID=WD_localhost%3bPassword=kdcNPp484MFFwvIR%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

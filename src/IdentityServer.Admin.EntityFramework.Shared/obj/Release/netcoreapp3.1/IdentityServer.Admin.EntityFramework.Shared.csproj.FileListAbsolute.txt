@@ -1,0 +1,9 @@
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\bin\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.deps.json
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\bin\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.dll
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\bin\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.pdb
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\obj\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.csprojAssemblyReference.cache
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\obj\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.AssemblyInfoInputs.cache
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\obj\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.AssemblyInfo.cs
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\obj\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\obj\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.dll
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Admin.EntityFramework.Shared\obj\Release\netcoreapp3.1\IdentityServer.Admin.EntityFramework.Shared.pdb

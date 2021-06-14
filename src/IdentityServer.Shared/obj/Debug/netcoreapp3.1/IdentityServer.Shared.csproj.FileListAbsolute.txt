@@ -1,9 +1,9 @@
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\bin\Debug\netcoreapp3.1\IdentityServer.Shared.deps.json
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\bin\Debug\netcoreapp3.1\IdentityServer.Shared.dll
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\bin\Debug\netcoreapp3.1\IdentityServer.Shared.pdb
-C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\obj\Debug\netcoreapp3.1\IdentityServer.Shared.csprojAssemblyReference.cache
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\obj\Debug\netcoreapp3.1\IdentityServer.Shared.AssemblyInfoInputs.cache
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\obj\Debug\netcoreapp3.1\IdentityServer.Shared.AssemblyInfo.cs
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\obj\Debug\netcoreapp3.1\IdentityServer.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\obj\Debug\netcoreapp3.1\IdentityServer.Shared.dll
 C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\obj\Debug\netcoreapp3.1\IdentityServer.Shared.pdb
+C:\Users\Arianit\Documents\Productivity\EverCloud\IdentityServer\src\IdentityServer.Shared\obj\Debug\netcoreapp3.1\IdentityServer.Shared.csprojAssemblyReference.cache

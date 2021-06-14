@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAApLfgkWqTpk6pb9C5ClB72AAAAAACAAAAAAAQZgAAAAEAACAAAADmrcgq3BNTUa4d45Sx5q8HqL5u33C93IwcqokMYS/xwQAAAAAOgAAAAAIAACAAAADwXuTqYCVy8XN2DusyDrMMDAdFHs8CwJ/vtYmIo/US/CAAAABFzvPIFlcAVGfztH0Yo08Q/5fwksxhYcb+ekkPHkCwh0AAAAC23znKHA+TJgfUTtuebGT9t9lPSNtXdwpCnnaCZnOwXB32PXcX+ov4qvetSJp6V/DnTaFBHtOY0dzMCWovs7vT</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConfigurationDbConnection">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="DataProtectionDbConnection">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="IdentityDbConnection">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="PersistedGrantDbConnection">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.AdminIdentityDbContext">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerConfigurationDbContext">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerDataProtectionDbContext">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+    <EFMigrations Include="IdentityServer.Admin.EntityFramework.Shared.DbContexts.IdentityServerPersistedGrantDbContext">
+      <Value>Server=localhost%3bDatabase=IdentityServer%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

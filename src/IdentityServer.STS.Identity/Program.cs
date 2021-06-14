@@ -85,6 +85,7 @@ namespace IdentityServer.STS.Identity
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.ConfigureKestrel(options => options.AddServerHeader = false);
+                    webBuilder.UseIISIntegration();
                     webBuilder.UseStartup<Startup>();
                 })
                 .UseSerilog((hostContext, loggerConfig) =>
