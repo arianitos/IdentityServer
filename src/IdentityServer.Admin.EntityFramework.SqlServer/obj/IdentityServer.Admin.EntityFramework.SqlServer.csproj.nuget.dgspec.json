@@ -1,34 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj": {}
+    "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj": {
+    "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj",
         "projectName": "IdentityServer.Admin.EntityFramework.Shared",
-        "projectPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj",
-        "packagesPath": "C:\\Users\\Arianit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\obj\\",
+        "projectPath": "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj",
+        "packagesPath": "C:\\Users\\lorik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Arianit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+          "C:\\Users\\lorik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -81,42 +75,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj": {
+    "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj",
         "projectName": "IdentityServer.Admin.EntityFramework.SqlServer",
-        "projectPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj",
-        "packagesPath": "C:\\Users\\Arianit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\obj\\",
+        "projectPath": "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\IdentityServer.Admin.EntityFramework.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\lorik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Arianit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+          "C:\\Users\\lorik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj": {
-                "projectPath": "C:\\Users\\Arianit\\Documents\\Productivity\\EverCloud\\IdentityServer\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj"
+              "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj": {
+                "projectPath": "C:\\Users\\lorik\\Lori\\Projects\\wdis\\src\\IdentityServer.Admin.EntityFramework.Shared\\IdentityServer.Admin.EntityFramework.Shared.csproj"
               }
             }
           }
@@ -166,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
